@@ -23,6 +23,14 @@
         <wilddev.core.version>1.0.0-SNAPSHOT</wilddev.core.version>
 	</properties>
 
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
 	<profiles>
 		<profile>
 			<id>release</id>
