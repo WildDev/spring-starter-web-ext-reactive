@@ -45,10 +45,10 @@ public class PageObject<T> {
      * @param content - content
      * @param pageSize - the pages size
      */
-    public PageObject(@NonNull List<T> content, int pageSize) {
+    public PageObject(@NonNull List<T> content, long pageSize, long itemsTotal) {
 
         this.content = content;
-        this.pages = (long) Math.ceil((double) content.size() / pageSize);
+        this.pages = (long) Math.ceil((double) itemsTotal / pageSize);
     }
 
     /**
