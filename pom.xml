@@ -13,14 +13,14 @@
 
 	<groupId>fun.wilddev.lib</groupId>
 	<artifactId>spring-starter-web-ext-reactive</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0.RELEASE</version>
 
 	<name>spring-starter-web-ext-reactive</name>
 	<description>Web extension starter for reactive Spring apps</description>
 
 	<properties>
 		<java.version>16</java.version>
-        <wilddev.core.version>1.0.0-SNAPSHOT</wilddev.core.version>
+        <wilddev.core.version>1.0.0.RELEASE</wilddev.core.version>
 	</properties>
 
     <licenses>
