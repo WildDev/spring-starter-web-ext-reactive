@@ -19,7 +19,7 @@
 	<description>Web extension starter for reactive Spring apps</description>
 
 	<properties>
-		<java.version>20</java.version>
+		<java.version>16</java.version>
         <wilddev.core.version>1.0.0-SNAPSHOT</wilddev.core.version>
 	</properties>
 
